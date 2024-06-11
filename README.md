@@ -1,0 +1,2 @@
+# Lucid Growth Blog Application!
+ 
